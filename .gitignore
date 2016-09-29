@@ -27,4 +27,5 @@ ie/backup/stanford-english-corenlp-models-current.jar
 ie/out/
 ie/src/log4j.properties
 ie-dist/
+ie/lib/stanford-english-corenlp-models-current.jar
 .DS_Store
